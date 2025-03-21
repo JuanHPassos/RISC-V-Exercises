@@ -1,7 +1,7 @@
 # Decodifique numero USP(8 digitos) de um aluno
 # guardado em uma palavra(32 bits) na memoria
 # e imprima.
-	.data # Armazena resultado na memoria
+	.data # Armazena na memoria RAM
 	.align 2
 	# Numero usp em hexadecimal
 n_usp:	.word 0x15464826
