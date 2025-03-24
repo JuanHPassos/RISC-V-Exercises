@@ -11,4 +11,5 @@ riscv1-ex7 | # Calcula a soma dos elementos de um vetor
 riscv1-ex8 | # Calcula fatorial sem usar multiplicação(apenas somas sucessivas)
 riscv1-ex9 | # Leia 8 digitos em uma palavra e armazene na memoria (codifica)
 riscv1-ex10 | # Decodifica os 8 digitos salvos na memoria, imprima-os
+riscv1-ex11 | # Bubble sort
 ```
